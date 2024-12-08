@@ -1,0 +1,10 @@
+main.c:26:6:Init_RCC	2
+main.c:39:6:Init_TIM1	2
+main.c:54:6:delay_us	2
+main.c:62:6:delay_ms	2
+main.c:72:6:Init_GPIOA	1
+main.c:84:6:Init_GPIOD	1
+main.c:96:6:Init_TIM2	2
+main.c:125:6:TIMER_Capture	4
+main.c:158:6:Read_SRF05	1
+main.c:171:5:main	2

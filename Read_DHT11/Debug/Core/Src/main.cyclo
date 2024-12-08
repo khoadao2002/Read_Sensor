@@ -1,0 +1,14 @@
+main.c:26:6:Init_Source_Clock	2
+main.c:37:6:Init_Delay	2
+main.c:51:6:delay_us	2
+main.c:60:6:delay_ms	2
+main.c:70:6:Init_USART2	1
+main.c:89:6:Transmit_one_byte	3
+main.c:97:6:Transmit_data	2
+main.c:107:6:DATA_OUTPUT_MODE	1
+main.c:116:6:DATA_INPUT_MODE	1
+main.c:124:6:Start_Communicate_to_DHT11	1
+main.c:133:9:Respone_from_DHT11	4
+main.c:149:9:Read_Data	6
+main.c:165:6:Temperature_and_Humidity	3
+main.c:200:5:main	1
